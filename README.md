@@ -10,13 +10,13 @@ B.Sc. Artificial Intelligence Student | Aspiring Software Engineer | Python • 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 **B.Sc. Artificial Intelligence** (Graduating 2027)
-- 💻 Passionate about **Software Development, AI and Full Stack Development**
-- 🌱 Currently learning **Data Structures & Algorithms, MERN Stack and System Design**
-- 🎯 Goal: Become a **Software Engineer in a Product-Based Company**
-- 📍 Andhra Pradesh, India
+-  **B.Sc. Artificial Intelligence** (Graduating 2027)
+-  Passionate about **Software Development, AI and Full Stack Development**
+-  Currently learning **Data Structures & Algorithms, MERN Stack and System Design**
+-  Goal: Become a **Software Engineer in a Product-Based Company**
+-  Andhra Pradesh, India
 
 ---
 
@@ -42,9 +42,9 @@ B.Sc. Artificial Intelligence Student | Aspiring Software Engineer | Python • 
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### 🤖 AI Chatbot
+### AI Chatbot
 AI-powered chatbot using Python and Flask.
 
 ### 💰 Expense Tracker
@@ -56,8 +56,6 @@ Compare prices from multiple shopping platforms.
 ### 🚌 APSRTC Live Tracking
 Real-time public transport tracking system.
 
-### 📄 AI Resume Analyzer
-Resume analysis using Artificial Intelligence.
 
 ---
 
